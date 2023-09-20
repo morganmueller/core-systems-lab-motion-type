@@ -1,0 +1,64 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(50, 19%, 95%);
+}
+
+
+
+
+
+
+/*
+@keyframes bounce {
+  0%   { height: 100%; }
+  30%  { height: 20%; }
+  80% { height: 30%; }
+}
+
+.content {
+  height: 200px;
+  width: 200px;
+  position: relative;
+}
+
+.element {
+  background-color: hsl(0, 90%, 50%);
+  height: 100%;
+  width: 2rem;
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+}
+
+.element-1 {
+  animation: bounce 4s 0s infinite;
+  left: 0;
+}
+
+.element-2 {
+  animation: bounce 4.1s 0.2s infinite;
+  left: 2rem;
+}
+
+.element-3 {
+  animation: bounce 4.4s 0.4s infinite;
+  left: 4rem;
+}
+
+.content:hover .element-1 {
+  animation: bounce 1s 0s infinite;
+}
+
+.content:hover .element-2 {
+  animation: bounce 1.1s 0s infinite;
+}
+
+.content:hover .element-3 {
+  animation: bounce 1.4s 0.4s infinite;
+}
+*/
